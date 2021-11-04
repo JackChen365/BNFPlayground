@@ -92,7 +92,7 @@ Here are some pictures that I was turn the AST to NFA
 * [NFANodeVisitorTest](src/test/kotlin/cz/bnf/playground/nfa/NFANodeVisitorTest.kt)
 * [SymbolTableNodeVisitorTest](src/test/kotlin/cz/bnf/playground/nfa/SymbolTableNodeVisitorTest.kt)
 
-### Here are how I design the quantifiers
+### How I design the quantifiers
 
 * For symbol '+'
 
